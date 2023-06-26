@@ -2,6 +2,8 @@
 
 (Image Classification Gender and person's name)
 
+KELOMPOK 4
+
 Penanggung jawab : </br>
 Febrian Chrissma Bagaskara (F55120059) 
 
